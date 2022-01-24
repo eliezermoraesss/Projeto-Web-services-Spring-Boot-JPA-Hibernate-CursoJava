@@ -42,15 +42,9 @@
 			<scope>runtime</scope>
 		</dependency>
 
-		<dependency>
-			<groupId>org.postgresql</groupId>
-			<artifactId>postgresql</artifactId>
-			<scope>runtime</scope>
-		</dependency>
+	</dependencies><!--$NO-MVN-MAN-VER$-->
 
-	</dependencies>
-
-	<build>
+<build>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
