@@ -76,12 +76,12 @@ public class Order implements Serializable {
 		}
 	}
 
-	public User getCliente() {
+	public User getClient() {
 		return client;
 	}
 
-	public void setCliente(User cliente) {
-		this.client = cliente;
+	public void setClient(User client) {
+		this.client = client;
 	}
 	
 	public Set<OrderItem> getItems() {
