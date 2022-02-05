@@ -38,4 +38,4 @@ After the maven downloaded all dependencies, run the SpringRestTemplateApplicati
 <br>
 For tests cases, you can check the API endpoints with Postman.<br>
 <br>
-Postman Collection
+[Postman Collection](https://www.postman.com/)
