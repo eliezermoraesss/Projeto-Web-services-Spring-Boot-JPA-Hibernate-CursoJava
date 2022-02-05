@@ -37,11 +37,7 @@ Respositories<br>
 Spring Initializr<br>
 Maven<br>
 
-How can i test my endpoints?<br>
-First, open your preference code editor and run the following code below:<br>
-
-mvn clean install<br>
-After the maven downloaded all dependencies, run the SpringRestTemplateApplication.class.<br>
+How can I test my endpoints?<br>
 
 For tests cases, you can check the API endpoints with Postman.<br>
 
