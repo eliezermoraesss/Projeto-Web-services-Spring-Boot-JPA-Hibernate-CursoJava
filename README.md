@@ -18,9 +18,11 @@ The main goal of this project is to serve as a basis to start the development of
 # Technologies<br>
 Spring Boot<br>
 Spring Data JPA<br>
-Spring Validation<br>
+ORM<br>
 H2 Database <br>
-
+PostgreSQL<br>
+Heroku<br>
+<br>
 # Features
 DTO (Data Transfer Object) principles<br>
 Automaticaly converter DTO to Entity<br>
