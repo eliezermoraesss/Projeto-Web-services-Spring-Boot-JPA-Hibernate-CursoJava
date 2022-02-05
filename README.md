@@ -28,9 +28,9 @@ DTO (Data Transfer Object) principles<br>
 Automaticaly converter DTO to Entity<br>
 Custom Exception Handler messages<br>
 Resources (REST Controller)<br>
-DTO
+DTO<br>
 Services<br>
-Entities
+Entities<br>
 Respositories<br>
 
 # Built With<br>
