@@ -8,13 +8,13 @@ Criação do projeto Spring Boot Java, implementação do modelo de domínio, es
 Testes de requisição realizados pelo Postman. <br>
 <br>
 Link do projeto no Heroku: https://lnkd.in/dc8KnYkC<br>
-<br>
+
 # Spring REST API CRUD example<br>
 This project is an implementation of a basic CRUD using RESTful principles.<br>
-<br>
+
 # About<br>
 The main goal of this project is to serve as a basis to start the development of a new REST API.<br>
-<br>
+
 # Technologies<br>
 Spring Boot<br>
 Spring Data JPA<br>
@@ -22,22 +22,25 @@ ORM<br>
 H2 Database <br>
 PostgreSQL<br>
 Heroku<br>
-<br>
+
 # Features
 DTO (Data Transfer Object) principles<br>
 Automaticaly converter DTO to Entity<br>
 Custom Exception Handler messages<br>
-<br>
+Resources (REST Controller)<br>
+Services<br>
+Respositories<br>
+
 # Built With<br>
 Spring Initializr<br>
 Maven<br>
-<br>
+
 How can i test my endpoints?<br>
 First, open your preference code editor and run the following code below:<br>
-<br>
+
 mvn clean install<br>
 After the maven downloaded all dependencies, run the SpringRestTemplateApplication.class.<br>
-<br>
+
 For tests cases, you can check the API endpoints with Postman.<br>
-<br>
+
 [Postman Collection](https://www.postman.com/)
