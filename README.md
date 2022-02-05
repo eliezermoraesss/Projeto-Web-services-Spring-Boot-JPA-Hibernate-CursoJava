@@ -1,4 +1,4 @@
-# Projeto-Web-services-Spring-Boot-JPA-Hibernate-CursoJava
+# Projeto Web services Spring Boot JPA Hibernate
 
 Projeto Web Services com Spring Boot JPA / Hibernate 🍃 <br>
 Deêm uma olhadinha no vídeo. 🎥<br>
